@@ -111,22 +111,22 @@
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [bore](https://github.com/ekzhang/bore) - Making tunnels to localhost
 - [clipboard](https://github.com/sindresorhus/clipboard-cli) - Access the system clipboard (copy/paste).
-- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs with diff-highlight and more.
+- [dog](https://github.com/ogham/dog) -  Command-line DNS client alternative to `dig`.
 - [dua](https://github.com/Byron/dua-cli) - Interactive disk usage.
 - [entrp](http://eradman.com/entrproject/) - Run arbitrary commands when files change ([alternative](https://github.com/watchexec/watchexec)).
 - [eza](https://github.com/eza-community/eza) - A modern replacement for `ls`.
-- [dog](https://github.com/ogham/dog) -  Command-line DNS client alternative to `dig`.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool.
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
+- [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI.
 - [gnomon](https://github.com/paypal/gnomon) - Perfect for analyze quickly logs.
+- [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
 - [htop](https://github.com/hishamhm/htop) - htop is an interactive `top`.
 - [httpstat](https://github.com/reorx/httpstat) - `curl` statistics made simple.
 - [hub](https://github.com/github/hub) - It helps you win at git.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
 - [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq.
-- [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
-- [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI.
+- [lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI.
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
 - [pv](https://github.com/icetee/pv) - Monitoring the progress of data through a pipeline.
